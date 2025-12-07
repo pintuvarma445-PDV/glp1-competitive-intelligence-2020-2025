@@ -1,0 +1,13 @@
+product,year,company,value_dkk_or_usd_mn,page,source_file,raw_line,duplicate_page_flag
+Mounjaro,2023,Eli Lilly,4834,68,Annual Reports 2023.pdf,"Mounjaro® . . . . . . . . . . . . . 4,834.2 366.6 — 328.9 115.9 —",1
+Mounjaro,2024,Eli Lilly,8949,70,Annual Reports 2024.pdf,"Mounjaro $ 8,949.9 $ 4,834.2 $ 366.6 $ 2,590.2 $ 328.9 $ 115.9",2
+Ozempic,2020,Novo Nordisk,41831,30,Novo-Nordisk-Annual-Report-2020.pdf,"CER to DKK 41,831 million . Ozempic® has now Sales split in Diabetes care was negatively impacted by lower demand due to",2
+Ozempic,2022,Novo Nordisk,28448,38,novo-nordisk-annual-report-2022.pdf,"Danish kroner and by 15% at CER to DKK 28,448 million, Ozempic® and Rybelsus®, as well as Obesity care market contracts. The foreign exchange result was a net loss of DKK",2
+Rybelsus,2020,Novo Nordisk,21211,30,Novo-Nordisk-Annual-Report-2020.pdf,"21,211 million, and Rybelsus® has been launched GLP-1 sales as reported Sales of Norditropin® increased by 6% measured",2
+Rybelsus,2021,Novo Nordisk,19203,34,novo-nordisk-annual-report-2021.pdf,"World. Rybelsus® has now been launched in 29 countries. Danish kroner and by 4% at CER to DKK 19,203 million in line",1
+Rybelsus,2022,Novo Nordisk,28448,38,novo-nordisk-annual-report-2022.pdf,"Danish kroner and by 15% at CER to DKK 28,448 million, Ozempic® and Rybelsus®, as well as Obesity care market contracts. The foreign exchange result was a net loss of DKK",2
+Rybelsus,2023,Novo Nordisk,6018,62,novo-nordisk-annual-report-2023.pdf,"In addition, intellectual property rights contain DKK 6,018 million related to Rybelsus®",1
+Rybelsus,2024,Novo Nordisk,5453,114,novo-nordisk-annual-report-2024.pdf,"marketed products include Rybelsus® with a carrying value of DKK 5,453 million For acquired research and development projects, and intellectual property rights,",1
+Wegovy,2022,Novo Nordisk,83371,37,novo-nordisk-annual-report-2022.pdf,"kroner and by 42% at CER to DKK 83,371 million. The GLP- Wegovy®, increased by 101% measured in Danish kroner",2
+Wegovy,2023,Novo Nordisk,64319,90,novo-nordisk-annual-report-2023.pdf,"continued launch of Wegovy® in new markets. Year-end employees (total) 64,319 55,185 48,478",1
+Zepbound,2024,Eli Lilly,4925,51,Annual Reports 2024.pdf,"Zepbound 4,925.7 — 4,925.7 175.8 NM",2

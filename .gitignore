@@ -1,0 +1,15 @@
+# Ignore raw PDFs
+data/raw/*
+
+# Ignore temporary notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore compiled python files
+*.pyc
+
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore large extracted logs
+logs/

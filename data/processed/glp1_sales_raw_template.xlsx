@@ -1,0 +1,20 @@
+company
+brand_name
+molecule_name
+indication_segment
+year
+period_type             # FY / Q1 / Q2 / Q3 / Q4
+revenue_value
+currency
+reported_value_type     # reported / constant_currency / operational_growth
+yoy_growth_percent      # leave blank for now
+source_document_type    # Annual Report / 10-K / Quarterly PR
+source_year
+source_title
+source_page
+source_table
+source_link
+extraction_timestamp
+analyst_initials
+quality_check_status
+notes
